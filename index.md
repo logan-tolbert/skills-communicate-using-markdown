@@ -39,3 +39,10 @@ var greet = "Hello, Github!";
     </main>
   </body>
   </html>
+
+
+# How to add a list with Markdown
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
